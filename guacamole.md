@@ -3,3 +3,4 @@
 -avaocado
 -lime
 -pepper
+-chili
